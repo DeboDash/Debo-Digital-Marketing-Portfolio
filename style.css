@@ -9,7 +9,7 @@ a{
     text-decoration: none;
 }
 .bg-header{
-    background: linear-gradient(#000000c9, #000000ce), url();
+    background: linear-gradient(#000000c9, #000000ce), url(image/digital-marketing.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -81,7 +81,7 @@ a{
     color: #444;
 }
 .fixed{
-    background-image: url(image/header-bg.jpg);
+    background-image: url(image/bg1.jpg);
     height: 15vh;
     background-position: center;
     background-size: cover;
